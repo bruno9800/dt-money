@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 1400,
+      "createdAt": "2015-07-01T00:00:00"
+    },
+    {
+      "id": 2,
+      "description": "Dominio WebSite",
+      "type": "outcome",
+      "category": "Compra",
+      "price": 120,
+      "createdAt": "2022-07-01T00:00:00"
+    },
+    {
+      "id": 3,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 20,
+      "createdAt": "2022-05-01T00:00:00"
+    },
+    {
+      "id": 4,
+      "description": "Ads",
+      "type": "income",
+      "category": "Publications",
+      "price": 120,
+      "createdAt": "2022-10-01T05:00:00"
+    },
+    {
+      "description": "pastel",
+      "price": 4,
+      "category": "alimentação",
+      "type": "outcome",
+      "createdAt": "2022-10-20T02:59:48.150Z",
+      "id": 5
+    }
+  ]
+}
